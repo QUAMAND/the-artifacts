@@ -25,7 +25,148 @@
     " 5 "
   ],
   "result": {
+    "components": {
+      "minecraft:consumable": {
+        "consume_seconds": 2147483647,
+        "has_consume_particles": false
+      },
+      "minecraft:custom_data": "{ce:1,place:1,archer:1,tier:5,dispenser:1}",
+      "minecraft:custom_name": {
+        "text": "궁수 유닛",
+        "color": "gold",
+        "font": "uniform",
+        "bold": true,
+        "italic": false
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:entity_data":"{id:marker,Tags:[test]}",
+      "item_model": "archer_pottery_sherd",
+      "minecraft:lore": [
+        {
+          "text": " 정보",
+          "color": "#0088FF",
+          "italic": false,
+          "bold": true
+        },
+        [
+          {
+            "text": "  분류: ",
+            "color": "gray",
+            "italic": false
+          },
+          {
+            "text": "궁수",
+            "color": "green"
+          }
+        ],
+        [
+          {
+            "text": "  티어: ",
+            "color": "gray",
+            "italic": false
+          },
+          {
+            "text": "5",
+            "color": "#FF00FF",
+            "bold": true
+          }
+        ],
+        [
+          {
+            "text": "  속성: ",
+            "color": "gray",
+            "italic": false
+          },
+          {
+            "text": "원거리, 공격 속도",
+            "color": "light_purple"
+          }
+        ],
+        [
+          {
+            "text": "  장비: ",
+            "color": "gray",
+            "italic": false
+          },
+          {
+            "translate": "block.minecraft.dispenser",
+            "color": "yellow"
+          }
+        ],
+        [
+          {
+            "text": "  갑옷: ",
+            "color": "gray",
+            "italic": false
+          },
+          {
+            "translate": "item.minecraft.diamond_chestplate",
+            "color": "aqua"
+          }
+        ],
+        "",
+        {
+          "text": " 스탯",
+          "color": "#0088FF",
+          "italic": false,
+          "bold": true
+        },
+        [
+          {
+            "text": "  공격력: ",
+            "color": "gray",
+            "italic": false
+          },
+          {
+            "text": "18",
+            "color": "red"
+          }
+        ],
+        [
+          {
+            "text": "  체력: ",
+            "color": "gray",
+            "italic": false
+          },
+          {
+            "text": "14",
+            "color": "green"
+          },
+          {
+            "text": "(",
+            "color": "gray"
+          },
+          {
+            "text": "6",
+            "color": "green"
+          },
+          {
+            "text": "+",
+            "color": "gray"
+          },
+          {
+            "text": "8",
+            "color": "blue"
+          },
+          {
+            "text": ")",
+            "color": "gray"
+          }
+        ],
+        [
+          {
+            "text": "  방어력: ",
+            "color": "gray",
+            "italic": false
+          },
+          {
+            "text": "8",
+            "color": "blue"
+          }
+        ]
+      ]
+    },
     "count": 1,
-    "id": "archer_pottery_sherd"
+    "id": "cod_spawn_egg"
   }
 }
