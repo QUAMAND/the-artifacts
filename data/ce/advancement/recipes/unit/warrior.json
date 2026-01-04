@@ -1,0 +1,35 @@
+{
+  "parent": "ce:recipes/unit/root",
+  "criteria": {
+    "has_item": {
+      "trigger": "inventory_changed",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "player",
+            "advancements": {
+              "ce:recipes/unit/root": true
+            }
+          }
+        },
+        "items": [
+          {
+            "items": "#unit/warrior"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [["has_item"]],
+  "rewards": {
+    "recipes": [
+      "ce:unit/warrior/1",
+      "ce:unit/warrior/2",
+      "ce:unit/warrior/3",
+      "ce:unit/warrior/4",
+      "ce:unit/warrior/5",
+      "ce:unit/warrior/6",
+      "ce:unit/warrior/7"
+    ]
+  }
+}

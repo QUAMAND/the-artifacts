@@ -1,0 +1,49 @@
+{
+  "parent": "ce:recipes/unit/root",
+  "criteria": {
+    "has_item": {
+      "trigger": "inventory_changed",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "player",
+            "advancements": {
+              "ce:recipes/unit/root": true
+            }
+          }
+        },
+        "items": [
+          {
+            "items": "#unit/archer"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [["has_item"]],
+  "rewards": {
+    "recipes": [
+      "ce:unit/archer/1_1",
+      "ce:unit/archer/1_2",
+      "ce:unit/archer/1_3",
+      "ce:unit/archer/1_4",
+      "ce:unit/archer/1_5",
+      "ce:unit/archer/1_6",
+      "ce:unit/archer/1_7",
+      "ce:unit/archer/2_1",
+      "ce:unit/archer/2_2",
+      "ce:unit/archer/2_3",
+      "ce:unit/archer/2_4",
+      "ce:unit/archer/2_5",
+      "ce:unit/archer/2_6",
+      "ce:unit/archer/2_7",
+      "ce:unit/archer/3_1",
+      "ce:unit/archer/3_2",
+      "ce:unit/archer/3_3",
+      "ce:unit/archer/3_4",
+      "ce:unit/archer/3_5",
+      "ce:unit/archer/3_6",
+      "ce:unit/archer/3_7"
+    ]
+  }
+}

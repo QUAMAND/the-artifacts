@@ -1,0 +1,79 @@
+{
+  "display": {
+    "icon": {
+      "id": "blade_pottery_sherd"
+    },
+    "title": [
+      {
+        "color": "#FFB300",
+        "text": "T",
+        "shadow_color": -16777216,
+        "bold": true
+      },
+      {
+        "color": "#FFB915",
+        "text": "h"
+      },
+      {
+        "color": "#FFC02B",
+        "text": "e "
+      },
+      {
+        "color": "#FFC640",
+        "text": "A"
+      },
+      {
+        "color": "#FFCC55",
+        "text": "r"
+      },
+      {
+        "color": "#FFD36A",
+        "text": "t"
+      },
+      {
+        "color": "#FFD980",
+        "text": "i"
+      },
+      {
+        "color": "#FFDF95",
+        "text": "f"
+      },
+      {
+        "color": "#FFE6AA",
+        "text": "a"
+      },
+      {
+        "color": "#FFECBF",
+        "text": "c"
+      },
+      {
+        "color": "#FFF2D5",
+        "text": "t"
+      },
+      {
+        "color": "#FFFFFF",
+        "text": "s"
+      }
+    ],
+    "description": [
+      {
+        "text": "4차 세계대전은 돌멩이와 나무 막대기, 그리고 ",
+        "color": "gray"
+      },
+      {
+        "text": "도자기",
+        "color": "#ffff80",
+        "bold": true
+      },
+      "로 싸워질 것입니다."
+    ],
+    "background": "block/calcite",
+    "show_toast": true
+  },
+  "criteria": {
+    "init": {
+      "trigger": "location"
+    }
+  },
+  "requirements": [["init"]]
+}

@@ -1,0 +1,1 @@
+{"parent":"recipes/root","criteria":{"has_item":{"trigger":"inventory_changed","conditions":{"items":[{"items":"#unit/root"}]}}},"requirements":[["has_item"]]}

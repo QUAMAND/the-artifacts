@@ -1,0 +1,31 @@
+{
+  "type": "crafting_shaped",
+  "group": "archer",  
+  "category": "equipment",
+  "key": {
+    "1": [
+      "archer_pottery_sherd"
+    ],
+    "2": [
+      "dispenser"
+    ],
+    "3": [
+      "redstone"
+    ],
+    "4": [
+      "iron_chestplate"
+    ],
+    "5": [
+      "piston"
+    ]
+  },
+  "pattern": [
+    " 1 ",
+    "234",
+    " 5 "
+  ],
+  "result": {
+    "count": 1,
+    "id": "archer_pottery_sherd"
+  }
+}

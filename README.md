@@ -6,7 +6,16 @@
 > 불러오기: `/reload`  
 > 삭제하기: `/function ce:uninstall {key:QUAM12}`  
 
-# ⚙️ 기능
+# 개요
+제작자명: `QUAM12`  
+제조원: `Quantum Corporation`
+- F1: `중앙시 남구, 중앙로 3, 44100`
+
+## Overview
+- 분류: `유닛` - `전술형`
+- 무게: `알 수 없음`
+- 명명 규칙: `The-Artifacts`
+   - 코드명: `ceramics-unit`
 
 <br/>
 
