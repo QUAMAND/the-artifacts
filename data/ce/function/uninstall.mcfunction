@@ -4,7 +4,7 @@ $data modify storage ce: key set value "$(key)"
    data remove storage ce: key
 
 #@Successed
-tellraw @a [{bold:1b,text:"",shadow_color:-16777216},{bold:0b,text:"[ "},{nbt:"title",storage:"ce:",interpret:1b},{bold:0b,text:" ] datapack <- "},{"underlined":1b,color:"red",text:"DISABLED"}]
+tellraw @a [{bold:1b,text:"",shadow_color:-16777216},{bold:0b,text:"[ "},{nbt:"title",storage:"ce:",interpret:1b},{bold:0b,text:" ] datapack <- "},{"underlined":1b,color:"red",text:"DISABLED",click_event:{action:"run_command",command:'/datapack enable "file/the-artifacts"'}}]
 
 scoreboard objectives remove Artifacts
 scoreboard objectives remove Artifacts.FINAL
