@@ -14,7 +14,7 @@
         },
         "items": [
           {
-            "items": "#unit/archer"
+            "items": "stick"
           }
         ]
       }
@@ -23,7 +23,7 @@
   "requirements": [["has_item"]],
   "rewards": {
     "recipes": [
-      "ce:unit/archer"
+      "ce:unit/wizard"
     ]
   }
 }

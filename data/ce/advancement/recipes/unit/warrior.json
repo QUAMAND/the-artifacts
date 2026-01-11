@@ -14,7 +14,7 @@
         },
         "items": [
           {
-            "items": "#unit/warrior"
+            "items": "#swords"
           }
         ]
       }
@@ -23,7 +23,7 @@
   "requirements": [["has_item"]],
   "rewards": {
     "recipes": [
-      "ce:unit/warrior/1"
+      "ce:unit/warrior"
     ]
   }
 }

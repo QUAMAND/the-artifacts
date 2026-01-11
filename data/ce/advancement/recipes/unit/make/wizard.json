@@ -1,0 +1,1 @@
+{"criteria":{"make_item":{"trigger":"recipe_crafted","conditions":{"recipe_id":"ce:unit/wizard"}}},"requirements":[["make_item"]],"rewards":{"function":"ce:loot_table/unit/wizard"}}
