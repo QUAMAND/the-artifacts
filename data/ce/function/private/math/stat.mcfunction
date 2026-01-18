@@ -1,6 +1,0 @@
-$scoreboard players set #a Artifacts $(a)
-$scoreboard players set #d Artifacts $(d)
-$scoreboard players set #h Artifacts $(h)
-$scoreboard players set #m Artifacts $(m)
-$scoreboard players set #c Artifacts $(c)
-$scoreboard players set #s Artifacts $(s)

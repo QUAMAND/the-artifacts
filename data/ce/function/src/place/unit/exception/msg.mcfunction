@@ -1,7 +1,7 @@
 title @s times 0 50 0
 title @s title ""
-title @s subtitle ""
-$title @s actionbar {text:"$(text)",color:"red"}
+$title @s subtitle {text:"$(text)",color:"red"}
+title @s actionbar ""
 
 playsound block.note_block.bass
 
